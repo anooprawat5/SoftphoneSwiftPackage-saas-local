@@ -16,11 +16,11 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .binaryTarget(
             name: "Softphone",
-            url: "https://dist.acrobits.net/saas-swift-package-local/debug/Softphone.xcframework-182128.zip",
-            checksum: "6de25caf1d88e836fb3f4482303009892a21858aaed1215aee0bff748515ca1e"),
+            url: "https://dist.acrobits.net/saas-swift-package-local/debug/Softphone.xcframework-182133.zip",
+            checksum: "c29c8febc1e0fbe587d8fbaea6c0944e313302358c300b54b0754a7ede02e60e"),
         .binaryTarget(
             name: "Softphone_Swift",
-            url: "https://dist.acrobits.net/saas-swift-package-local/debug/Softphone_Swift.xcframework-182128.zip",
-            checksum: "b956753636ee2dab24c3073f10598b04cb5fbe9c2c0dd0ece3f6284ae35d72d8")
+            url: "https://dist.acrobits.net/saas-swift-package-local/debug/Softphone_Swift.xcframework-182133.zip",
+            checksum: "e5b1d5bd0f9fc6eed0aa1a93d92bca8a574c8076f04c8ed1014e810d8371622a")
     ]
 )
